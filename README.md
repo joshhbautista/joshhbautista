@@ -1,6 +1,6 @@
 # Hello, I'm Joshua Bautista 👋
 
-I'm a first-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). I'm currently working remotely at an early-stage startup in Sunnyvale, CA. Always looking for opportunities to further explore the field of Computer Science!
+I'm a first-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). Always looking for opportunities to further explore the field of Computer Science!
 
 ### 📬 Get in Touch
 
