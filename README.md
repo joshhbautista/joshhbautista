@@ -1,6 +1,6 @@
 # Hello, I'm Joshua Bautista 👋
 
-I'm a second-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). Always looking for opportunities to further explore the field of Computer Science!
+I'm a third-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). Always looking for opportunities to further explore the field of Computer Science!
 
 ### 📬 Get in Touch
 
