@@ -1,6 +1,10 @@
 # Hello, I'm Joshua Bautista 👋
 
-I'm a third-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/). Always looking for opportunities to further explore the field of Computer Science!
+I'm a fourth-year Computer Science student at the [University of Waterloo](https://uwaterloo.ca/).
+
+This upcoming summer, I will be joining Lyft as an intern, as part of the backend team.
+
+Always looking for opportunities to further explore the field of Computer Science!
 
 ### 📬 Get in Touch
 
