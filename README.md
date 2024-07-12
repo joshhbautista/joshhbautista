@@ -10,5 +10,3 @@ Always looking for opportunities to further explore the field of Computer Scienc
 
 - LinkedIn: [linkedin.com/joshua-bautista](https://www.linkedin.com/in/joshua-bautista/)
 - Site: [joshbautista.com](https://www.joshbautista.com)
-
-![Josh Bautista's github stats](https://github-readme-stats.vercel.app/api?username=joshhbautista&show_icons=true&hide_border=true)
